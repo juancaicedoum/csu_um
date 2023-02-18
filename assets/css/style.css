@@ -1240,7 +1240,7 @@ section {
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
-  color: #bd5102;
+  color: #E51464;
   transition: 0.3s;
 }
 
@@ -1572,7 +1572,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #14151c;
+  background: #7861A6;
   color: #fff;
   font-size: 14px;
   text-align: center;
@@ -1616,7 +1616,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #bd5102;
+  background: #E51464;
   color: #fff;
   text-decoration: none;
 }
